@@ -1,18 +1,15 @@
 {
     "author": "Markus Peröbner <markus.peroebner@gmail.com>",
-    "name": "osm-read",
+    "name": "osm-read-boolive",
     "description": "an openstreetmap XML and PBF data parser",
     "tags": [
         "osm",
         "openstreetmap"
     ],
-    "version": "0.6.0",
+    "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/marook/osm-read.git"
-    },
-    "bugs": {
-        "url": "https://github.com/marook/osm-read/issues"
+        "url": "https://github.com/VladimirShestakov/osm-read.git"
     },
     "main": "lib/main.js",
     "browser": {
